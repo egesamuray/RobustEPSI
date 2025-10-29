@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "documents": [
+    {
+      "path": "README.md",
+      "title": "Robust EPSI overview",
+      "description": "High-level description of the Robust Estimation of Primaries with Sparse Inversion (L1 minimization) MATLAB application, including prerequisites, installation notes, and support information.",
+      "tags": ["documentation", "overview", "matlab", "installation"]
+    },
+    {
+      "path": "README_examples.txt",
+      "title": "Example walkthroughs",
+      "description": "Detailed walkthrough for running bundled examples, data preparation requirements, and usage notes for the Robust EPSI demo scripts.",
+      "tags": ["documentation", "examples", "tutorial"]
+    },
+    {
+      "path": "PARAMETERS_LIST.txt",
+      "title": "Driver parameter reference",
+      "description": "Reference table describing every option that can be passed to the EPSI_SLIM_main MATLAB driver, including defaults and behavioral notes.",
+      "tags": ["documentation", "reference", "parameters"]
+    },
+    {
+      "path": "doc/index.html",
+      "title": "Published MATLAB documentation",
+      "description": "Auto-generated HTML documentation that mirrors the MATLAB publish output for the Robust EPSI package, covering package organization, setup guidance, and references.",
+      "tags": ["documentation", "html", "reference"]
+    },
+    {
+      "path": "data",
+      "title": "Data directory",
+      "description": "Location of synthetic and field data used by the Robust EPSI examples, including SU and MAT files referenced by the experiments.",
+      "tags": ["data", "inputs"]
+    }
+  ]
+}
